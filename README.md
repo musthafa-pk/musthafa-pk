@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musthafa-pk
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently flutter developer
 - 💞️ I’m looking to collaborate on flutter android and ios devlopment
 - 📫 How to reach me https://www.instagram.com/me_musthu/
 - 📫 How to reach me https://musthafa-pk.github.io/personal/
